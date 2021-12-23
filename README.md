@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Introduction coming soon :)
+To whom it may concern, most my work regarding research projects is on my Georgia Tech Github. Please contact me for more information :)
 <!--
 **matthewyangcs/matthewyangcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
